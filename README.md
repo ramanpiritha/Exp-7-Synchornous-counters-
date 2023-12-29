@@ -103,7 +103,8 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 ![image](https://github.com/ramanpiritha/Exp-7-Synchornous-counters-/assets/147084116/f2fac73f-a0a1-49bd-b12d-6d33fbdf4585)
 
 # DOWN COUNTER
-![image](https://github.com/ramanpiritha/Exp-7-Synchornous-counters-/assets/147084116/3f4218c1-8326-4b38-a1c3-525690f2f049)
+![image](https://github.com/ramanpiritha/Exp-7-Synchornous-counters-/assets/147084116/5ce4efff-445b-4f77-9d97-efe8a0f1c6e6)
+
 
 ## TRUTH TABLE
 # UP COUNTER
