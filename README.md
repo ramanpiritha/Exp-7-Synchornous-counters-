@@ -105,5 +105,11 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 # DOWN COUNTER
 ![image](https://github.com/ramanpiritha/Exp-7-Synchornous-counters-/assets/147084116/3f4218c1-8326-4b38-a1c3-525690f2f049)
 
+## TRUTH TABLE
+# UP COUNTER
+![image](https://github.com/ramanpiritha/Exp-7-Synchornous-counters-/assets/147084116/5513740b-8165-4eaf-8422-39a73bc1174e)
+# DOWN COUNTER
+![image](https://github.com/ramanpiritha/Exp-7-Synchornous-counters-/assets/147084116/56c15bca-22b2-4ec4-8f0e-565120bb0827)
+
 ### RESULTS 
 Thus, the flipflops are implemented using verilog.
