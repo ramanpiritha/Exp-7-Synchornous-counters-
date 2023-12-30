@@ -2,7 +2,7 @@
 ## Ref No: 23013537
 # Exp-6-Synchornous-counters - up counter and down counter 
 ### AIM:
-To implement 4 bit up and down counters and validate  functionality.
+To implement 3 bit up and down counters and validate  functionality.
 ## Equipments Required:
 ```
  HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
@@ -113,4 +113,4 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 ![image](https://github.com/ramanpiritha/Exp-7-Synchornous-counters-/assets/147084116/56c15bca-22b2-4ec4-8f0e-565120bb0827)
 
 ### RESULTS 
-Thus, the flipflops are implemented using verilog.
+Thus we have verified the truthtable of 3-bit up and down counter using verilog.
